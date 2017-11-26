@@ -1,0 +1,21 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.linear-grad-button{
+	-fx-background-color: linear-gradient(to bottom, #5AB0E2,#283C50); 
+}
+
+.linear-grad-top{
+	-fx-background-color: linear-gradient(to bottom, #283C50,#5AB0E2);
+}
+
+.color_transparent{
+	-fx-background-color: transparent;
+}
+
+.text_settings{
+	-fx-font-size: 25px;
+}
+
+.text_size{
+	-fx-font-size: 15px;
+}
